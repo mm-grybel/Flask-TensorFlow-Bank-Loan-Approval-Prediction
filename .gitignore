@@ -1,5 +1,6 @@
-.ipynb_checkpoints/Bank_Loan-checkpoint.ipynb
+.ipynb_checkpoints/
 .DS_Store
 .idea
+.vscode
 *.pyc
 venv
